@@ -1,2 +1,2 @@
 # js-learning-series
-A repository foe learing javascript
+A repository for learing javascript
